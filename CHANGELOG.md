@@ -1,5 +1,11 @@
 # react-resource-router
 
+## 0.29.1
+
+### Patch Changes
+
+- ea984a4: Bumped path-to-regexp
+
 ## 0.29.0
 
 ### Minor Changes
